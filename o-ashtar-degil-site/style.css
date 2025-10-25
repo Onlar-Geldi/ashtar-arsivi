@@ -1,0 +1,13 @@
+
+body {
+  background-color: #111;
+  color: #eee;
+  font-family: 'VT323', monospace;
+  padding: 2em;
+}
+h1 {
+  color: cyan;
+}
+a {
+  color: #0ff;
+}
